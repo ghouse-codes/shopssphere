@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="24" fill="#374151"/>
+  <rect x="38" y="58" width="124" height="76" rx="12" fill="#f9fafb"/>
+  <rect x="52" y="68" width="96" height="56" rx="8" fill="#10b981"/>
+  <rect x="58" y="132" width="84" height="10" rx="5" fill="#d1d5db"/>
+  <text x="100" y="182" text-anchor="middle" font-family="Arial" font-size="18" fill="white">MacBook</text>
+</svg>
